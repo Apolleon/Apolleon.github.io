@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.1447c1bb.css",
-    "main.js": "./static/js/main.9953c072.js",
+    "main.css": "./static/css/main.3f82e695.css",
+    "main.js": "./static/js/main.2b3fe706.js",
+    "static/media/potato4.png": "./static/media/potato4.c25cabc031d7b1e65a1b.png",
+    "static/media/potato3.png": "./static/media/potato3.367e5450f076143a754d.png",
+    "static/media/land-bot.png": "./static/media/land-bot.882dd096d281a3b50f1f.png",
+    "static/media/potato2.png": "./static/media/potato2.af9b2a54b16e78aab6e2.png",
+    "static/media/background.jpg": "./static/media/background.51d5d06cae2273e39927.jpg",
+    "static/media/land-tot.png": "./static/media/land-tot.23e00673fd090e7464ee.png",
+    "static/media/potato1.png": "./static/media/potato1.026ff317a0a062ce2add.png",
+    "static/media/pumpkin3.png": "./static/media/pumpkin3.52fbb15b8920017a7390.png",
+    "static/media/pumpkin2.png": "./static/media/pumpkin2.00ae5e199e374b511491.png",
+    "static/media/pumpkin1.png": "./static/media/pumpkin1.01876f257afcc5e38030.png",
+    "static/media/pumpkin0.png": "./static/media/pumpkin0.cfed9781b3786147f1b3.png",
     "index.html": "./index.html",
-    "main.1447c1bb.css.map": "./static/css/main.1447c1bb.css.map",
-    "main.9953c072.js.map": "./static/js/main.9953c072.js.map"
+    "static/media/close.svg": "./static/media/close.239ce48e6844a6417090f4902fb09529.svg",
+    "main.3f82e695.css.map": "./static/css/main.3f82e695.css.map",
+    "main.2b3fe706.js.map": "./static/js/main.2b3fe706.js.map"
   },
   "entrypoints": [
-    "static/css/main.1447c1bb.css",
-    "static/js/main.9953c072.js"
+    "static/css/main.3f82e695.css",
+    "static/js/main.2b3fe706.js"
   ]
 }
