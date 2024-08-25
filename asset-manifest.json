@@ -1,25 +1,38 @@
 {
   "files": {
-    "main.css": "./static/css/main.570cdaa1.css",
-    "main.js": "./static/js/main.8446c084.js",
+    "main.css": "./static/css/main.7f56d0de.css",
+    "main.js": "./static/js/main.20268b45.js",
     "static/media/potato4.png": "./static/media/potato4.c25cabc031d7b1e65a1b.png",
     "static/media/potato3.png": "./static/media/potato3.367e5450f076143a754d.png",
     "static/media/land-bot.png": "./static/media/land-bot.882dd096d281a3b50f1f.png",
     "static/media/potato2.png": "./static/media/potato2.af9b2a54b16e78aab6e2.png",
+    "static/media/melon1.png": "./static/media/melon1.18d0b664e0822eb5aa7a.png",
     "static/media/background.jpg": "./static/media/background.51d5d06cae2273e39927.jpg",
     "static/media/land-tot.png": "./static/media/land-tot.23e00673fd090e7464ee.png",
     "static/media/potato1.png": "./static/media/potato1.026ff317a0a062ce2add.png",
     "static/media/pumpkin3.png": "./static/media/pumpkin3.52fbb15b8920017a7390.png",
+    "static/media/melon3.png": "./static/media/melon3.e85c01c31932780e8aaa.png",
+    "static/media/tomato3.png": "./static/media/tomato3.e526e7488e2c9d0a258a.png",
     "static/media/pumpkin2.png": "./static/media/pumpkin2.00ae5e199e374b511491.png",
+    "static/media/carrot3.png": "./static/media/carrot3.49b4280110801a87ecf0.png",
+    "static/media/tomato1.png": "./static/media/tomato1.5223732c14edea44c093.png",
+    "static/media/tomato2.png": "./static/media/tomato2.58c95a6af615386a7957.png",
+    "static/media/carrot1.png": "./static/media/carrot1.66ea04882ac7e59a131a.png",
+    "static/media/melon2.png": "./static/media/melon2.bf9038621a1153bf065e.png",
     "static/media/pumpkin1.png": "./static/media/pumpkin1.01876f257afcc5e38030.png",
+    "static/media/carrot2.png": "./static/media/carrot2.8b37435baea969aec464.png",
     "static/media/pumpkin0.png": "./static/media/pumpkin0.cfed9781b3786147f1b3.png",
+    "static/media/tomato0.png": "./static/media/tomato0.7a175578b401f199b94a.png",
+    "static/media/melon0.png": "./static/media/melon0.159cda8150b661052546.png",
+    "static/media/carrot0.png": "./static/media/carrot0.fd610f6cfa59178f1b98.png",
+    "static/media/lock.svg": "./static/media/lock.8b21284ee6d3b58e98a7c22f950095a5.svg",
     "index.html": "./index.html",
     "static/media/close.svg": "./static/media/close.239ce48e6844a6417090f4902fb09529.svg",
-    "main.570cdaa1.css.map": "./static/css/main.570cdaa1.css.map",
-    "main.8446c084.js.map": "./static/js/main.8446c084.js.map"
+    "main.7f56d0de.css.map": "./static/css/main.7f56d0de.css.map",
+    "main.20268b45.js.map": "./static/js/main.20268b45.js.map"
   },
   "entrypoints": [
-    "static/css/main.570cdaa1.css",
-    "static/js/main.8446c084.js"
+    "static/css/main.7f56d0de.css",
+    "static/js/main.20268b45.js"
   ]
 }
